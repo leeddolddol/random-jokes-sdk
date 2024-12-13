@@ -37,6 +37,14 @@
   ],
   "author": "leeddolddol",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeddolddol/random-jokes-sdk.git"
+  },
+  "homepage": "https://github.com/leeddolddol/random-jokes-sdk#readme",
+  "bugs": {
+    "url": "https://github.com/leeddolddol/random-jokes-sdk/issues"
+  },
   "devDependencies": {
     "@eslint/js": "^9.16.0",
     "@typescript-eslint/eslint-plugin": "^8.18.0",
